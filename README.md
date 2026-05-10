@@ -11,23 +11,27 @@ This project focuses on performing end-to-end data analytics using Python, SQL, 
 - Description:
   The dataset contains information related to customers behavoiur and is used to analyze trends, patterns, and key insights.
 
----
-
 ## 🛠️ Tools & Technologies Used
 
 ### Programming & Analysis
 - Python
 - Pandas
 - NumPy
-- 
+- Matplotlib
+- Seaborn
+
 ### Database & Querying
+- PostgreSQL
 - MySQL
+- SQL Server
 
 ### Visualization & Reporting
 - Power BI
+- Gamma (for PPT creation)
 
 ### Development Environment
-- Jupyter Notebook 
+- Jupyter Notebook / Google Colab
+- VS Code
 
 ---
 
