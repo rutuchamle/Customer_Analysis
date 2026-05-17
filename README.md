@@ -21,17 +21,13 @@ This project focuses on performing end-to-end data analytics using Python, SQL, 
 - Seaborn
 
 ### Database & Querying
-- PostgreSQL
 - MySQL
-- SQL Server
 
 ### Visualization & Reporting
 - Power BI
-- Gamma (for PPT creation)
 
 ### Development Environment
-- Jupyter Notebook / Google Colab
-- VS Code
+- Jupyter Notebook
 
 ---
 
